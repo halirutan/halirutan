@@ -27,3 +27,9 @@ Some random facts that somehow ended up on the internet:
 <p align="center">
 <img src="https://i.stack.imgur.com/70PEH.png" alt="Visualization Collatz sequence">
 </p>
+
+## Where to find me
+
+- I occasionally [stream on Twitch](https://www.twitch.tv/halirutan)
+- My [YouTube channel](https://www.youtube.com/@halirutan)
+- If you want it pRofeSsionAL, here is [my LinkedIn profile](https://www.linkedin.com/in/halirutan/)
